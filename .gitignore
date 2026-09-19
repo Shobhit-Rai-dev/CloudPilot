@@ -51,6 +51,13 @@ wheels/
 .next/
 out/
 
+# Next.js / deployment caches
+.vercel/
+.turbo/
+
+# Test coverage
+coverage/
+
 # OS / Editor
 .DS_Store
 Thumbs.db
