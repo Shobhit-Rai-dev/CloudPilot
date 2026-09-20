@@ -1,5 +1,8 @@
 # CloudOps — Unified Cloud Resource, Scaling & Cost Management Platform
 
+DEMO at: https://cloudpilot.rixxcorp.co.in
+*** Backend server take 30 sec to awake ***
+
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]()
 [![Frontend](https://img.shields.io/badge/frontend-Next.js%2016%20%7C%20React%2019%20%7C%20Tailwind-blue)]()
 [![Backend](https://img.shields.io/badge/backend-FastAPI%20%7C%20Python%203.13-emerald)]()
