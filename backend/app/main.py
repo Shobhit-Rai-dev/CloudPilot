@@ -1,7 +1,7 @@
 from contextlib import asynccontextmanager
 from fastapi import FastAPI, WebSocket, WebSocketDisconnect
 from fastapi.middleware.cors import CORSMiddleware
-from backend.app.core.config import settings
+from app.core.config import settings
 from backend.app.core.database import engine, Base, SessionLocal
 from backend.app.core.seed import seed_database
 from backend.app.api.routes import router
