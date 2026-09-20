@@ -1,4 +1,4 @@
-```python
+
 from contextlib import asynccontextmanager
 
 from fastapi import FastAPI, WebSocket, WebSocketDisconnect
@@ -83,4 +83,4 @@ def root():
         "mode": settings.CLOUD_PROVIDER.upper(),
         "docs": "/docs",
     }
-```
+
